@@ -800,7 +800,7 @@ QA_util_cfg_initial()
 
 安装完成后，建议：
 
-1. **阅读快速入门**: [QUICKSTART.md](./QUICKSTART.md)
+1. **阅读快速入门**: [QUICKSTART.md](./quickstart.md)
 2. **查看示例代码**: [examples/](./examples/)
 3. **运行基准测试**: 验证性能提升
 4. **配置数据源**: 开始获取市场数据
